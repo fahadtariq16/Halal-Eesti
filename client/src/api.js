@@ -31,3 +31,13 @@ export const sendSuggestion = (data) =>
   });
 
 export const getMenu = (id) => request(`/api/places/${encodeURIComponent(id)}/menu`);
+
+export const getReviews = (id, page = 1) =>
+  request(`/api/places/${encodeURIComponent(id)}/reviews?page=${page}&limit=5`);
+
+export const sendReview = (id, data) =>
+  request(`/api/places/${encodeURIComponent(id)}/reviews`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(data)
+  });

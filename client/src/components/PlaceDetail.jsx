@@ -1,9 +1,10 @@
 import { useEffect, useRef, useState } from 'react';
 import MenuView from './MenuView.jsx';
+import ReviewsView from './ReviewsView.jsx';
 import PlaceCover from './PlaceCover.jsx';
 import { MEAT_ICON, STATUS, TYPE } from '../labels.js';
 
-export default function PlaceDetail({ place, onClose, onShowOnMap }) {
+export default function PlaceDetail({ place, onClose, onShowOnMap, onReviewAdded }) {
   const closeRef = useRef(null);
   const [tab, setTab] = useState('about');
   useEffect(() => {
@@ -30,14 +31,18 @@ export default function PlaceDetail({ place, onClose, onShowOnMap }) {
           <h2 id="sheet-h">{place.name}</h2>
           <p className="sheet-address">{place.address || 'Address not confirmed yet.'}</p>
 
-          {place.hasMenu && (
-            <div className="sheet-tabs" role="tablist">
-              <button role="tab" aria-selected={tab === 'about'} className="sheet-tab" onClick={() => setTab('about')}>About</button>
+          <div className="sheet-tabs" role="tablist">
+            <button role="tab" aria-selected={tab === 'about'} className="sheet-tab" onClick={() => setTab('about')}>About</button>
+            {place.hasMenu && (
               <button role="tab" aria-selected={tab === 'menu'} className="sheet-tab" onClick={() => setTab('menu')}>Menu & prices</button>
-            </div>
-          )}
+            )}
+            <button role="tab" aria-selected={tab === 'reviews'} className="sheet-tab" onClick={() => setTab('reviews')}>
+              Reviews{place.reviewCount ? ` (${place.reviewCount})` : ''}
+            </button>
+          </div>
 
-          {tab === 'menu' && place.hasMenu ? <MenuView placeId={place.id} /> : <>
+          {tab === 'reviews' ? <ReviewsView place={place} onReviewAdded={onReviewAdded} />
+          : tab === 'menu' && place.hasMenu ? <MenuView placeId={place.id} /> : <>
 
           <div className={`evidence evidence-${status.tone}`}>
             <strong>{status.label}.</strong> {status.help}

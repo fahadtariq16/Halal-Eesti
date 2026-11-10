@@ -28,15 +28,20 @@ export default function App() {
   const [openId, setOpenId] = useState(null);
   const [mapId, setMapId] = useState(null);
   const [showForm, setShowForm] = useState(false);
+  const [reloadKey, setReloadKey] = useState(0); // bump to refetch after a new review
   const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {
     getMeta().then(setMeta).catch(() => {});
-    getPlaces().then((r) => setAll(r.data)).catch(() => {});
     const onScroll = () => setScrolled(window.scrollY > 40);
     window.addEventListener('scroll', onScroll, { passive: true });
     return () => window.removeEventListener('scroll', onScroll);
   }, []);
+
+  // All places (for the detail sheet). Refetched after a new review so ratings update.
+  useEffect(() => {
+    getPlaces().then((r) => setAll(r.data)).catch(() => {});
+  }, [reloadKey]);
 
   // Any filter or tab change starts again from page 1.
   useEffect(() => { setPage(1); }, [filters, group]);
@@ -56,7 +61,7 @@ export default function App() {
         .finally(() => setLoading(false));
     }, 200);
     return () => clearTimeout(t);
-  }, [filters, group, page]);
+  }, [filters, group, page, reloadKey]);
 
   // Map: every match, not just this page.
   useEffect(() => {
@@ -188,7 +193,7 @@ export default function App() {
         <span>Map © OpenStreetMap contributors</span>
       </footer>
 
-      {open && <PlaceDetail place={open} onClose={() => setOpenId(null)} onShowOnMap={() => { setGroup(['butcher','shop','online'].includes(open.type) ? 'sellers' : 'restaurants'); showOnMap(open.id); }} />}
+      {open && <PlaceDetail place={open} onClose={() => setOpenId(null)} onShowOnMap={() => { setGroup(['butcher','shop','online'].includes(open.type) ? 'sellers' : 'restaurants'); showOnMap(open.id); }} onReviewAdded={() => setReloadKey((k) => k + 1)} />}
       {showForm && <SuggestForm onClose={() => setShowForm(false)} />}
     </>
   );

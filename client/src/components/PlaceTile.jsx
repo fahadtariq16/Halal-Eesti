@@ -1,4 +1,5 @@
 import PlaceCover from './PlaceCover.jsx';
+import { Stars } from './Stars.jsx';
 import { useReveal, useTilt } from '../hooks.js';
 import { MEAT_ICON, STATUS, TYPE } from '../labels.js';
 
@@ -18,6 +19,12 @@ export default function PlaceTile({ place, index, onOpen }) {
         <div className="tile-body">
           <h3>{place.name}</h3>
           <p className="tile-where">{place.city}, {street}</p>
+          {place.reviewCount > 0 && (
+            <p className="tile-rating">
+              <Stars value={place.rating} size="0.85rem" /> <strong>{place.rating.toFixed(1)}</strong>
+              <span className="muted"> ({place.reviewCount})</span>
+            </p>
+          )}
           <div className="tile-foot">
             <span className="tile-meats">
               {place.meats.length
