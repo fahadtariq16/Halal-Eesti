@@ -1,0 +1,859 @@
+{
+  "gulluzadem": {
+    "source": {
+      "label": "Wolt",
+      "url": "https://wolt.com/en/est/tallinn/restaurant/gllzadem"
+    },
+    "priceType": "delivery",
+    "lastChecked": "2026-11-10",
+    "links": [
+      {
+        "label": "Full menu & order on Wolt",
+        "url": "https://wolt.com/en/est/tallinn/restaurant/gllzadem"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Kebab",
+        "items": [
+          {
+            "name": "Tortilla döner kebab",
+            "price": 10.5,
+            "description": "Chicken, beef or mixed; pickles, carrot, onion, salad, garlic sauce"
+          },
+          {
+            "name": "Pita döner kebab",
+            "price": 10.5,
+            "description": "Chicken, beef or mixed, in pita bread"
+          },
+          {
+            "name": "Döner kebab with fries",
+            "price": 12.5
+          },
+          {
+            "name": "Döner kebab with rice",
+            "price": 12.5
+          },
+          {
+            "name": "Döner kebab with rice and fries",
+            "price": 13.5
+          },
+          {
+            "name": "Döner kebab box",
+            "price": 12.5
+          },
+          {
+            "name": "Shawarma tortilla kebab",
+            "price": 10.5
+          },
+          {
+            "name": "Shawarma pita kebab",
+            "price": 10.5
+          },
+          {
+            "name": "Falafel pita",
+            "price": 10.5
+          },
+          {
+            "name": "Falafel with fries",
+            "price": 12.5
+          },
+          {
+            "name": "Lentil soup + bread",
+            "price": 7
+          },
+          {
+            "name": "Fries",
+            "price": 6.5
+          }
+        ]
+      },
+      {
+        "name": "Burger",
+        "items": [
+          {
+            "name": "Kebab burger",
+            "price": 8.5,
+            "description": "Kebab meat, cheddar, bun, sauce, salad, onion"
+          }
+        ]
+      },
+      {
+        "name": "Sweets",
+        "items": [
+          {
+            "name": "Turkish baklava, 4 pcs",
+            "price": 8.5,
+            "description": "Pistachio and walnut"
+          },
+          {
+            "name": "Churchkhela selection 250 g",
+            "price": 7.5
+          }
+        ]
+      },
+      {
+        "name": "Combos",
+        "items": [
+          {
+            "name": "Savoury & sweet combo",
+            "price": 13.5,
+            "description": "Tortilla döner + a dessert of your choice"
+          },
+          {
+            "name": "Big sweet combo",
+            "price": 32.5,
+            "description": "Baklava, churchkhela, halva, Turkish delight and künefe"
+          }
+        ]
+      }
+    ]
+  },
+  "antalya": {
+    "source": {
+      "label": "Wolt",
+      "url": "https://wolt.com/en/est/tallinn/restaurant/antalya"
+    },
+    "priceType": "delivery",
+    "lastChecked": "2026-11-10",
+    "links": [
+      {
+        "label": "Full menu & order on Wolt",
+        "url": "https://wolt.com/en/est/tallinn/restaurant/antalya"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Kebab & shashlik",
+        "items": [
+          {
+            "name": "Adana kebab",
+            "price": 11.3,
+            "description": "Spicy Turkish kebab with grilled tomatoes"
+          },
+          {
+            "name": "Iskender kebab",
+            "price": 10.9,
+            "description": "Lyulya kebab with garlic lavash, garlic-tomato sauce and salad"
+          },
+          {
+            "name": "Antalya kebab",
+            "price": 14.3,
+            "description": "Lamb and beef kebab in lavash with yoghurt, cheese, grilled pepper and tomato"
+          },
+          {
+            "name": "Mixed kebab",
+            "price": 13.9,
+            "description": "5 kinds of meat, salad, kebab sauce"
+          },
+          {
+            "name": "Mixed kebab for 3",
+            "price": 37.3
+          },
+          {
+            "name": "Mixed kebab for 5",
+            "price": 63.1
+          },
+          {
+            "name": "Tavuk dürüm",
+            "price": 9.9,
+            "description": "Chicken kebab in lavash"
+          },
+          {
+            "name": "Lamb rack",
+            "price": 20.3
+          },
+          {
+            "name": "Lamb rack (3 pcs)",
+            "price": 14.3
+          },
+          {
+            "name": "Lamb rack and beef tenderloin skewer",
+            "price": 15.3
+          },
+          {
+            "name": "Chicken thigh shashlik",
+            "price": 9.3
+          },
+          {
+            "name": "Chicken wing shashlik",
+            "price": 9.3
+          },
+          {
+            "name": "Chicken and turkey fillet skewer",
+            "price": 10.9
+          },
+          {
+            "name": "Chicken kebab in lavash (L)",
+            "price": 8.9
+          }
+        ]
+      },
+      {
+        "name": "Mains",
+        "items": [
+          {
+            "name": "Dana kavurma",
+            "price": 14.9,
+            "description": "Fried beef tenderloin, mushrooms, potato, onion, cherry tomatoes"
+          },
+          {
+            "name": "Lamb pilaf",
+            "price": 9.9,
+            "description": "Azerbaijani recipe"
+          },
+          {
+            "name": "Dolma in vine leaves",
+            "price": 9.3,
+            "description": "Lamb and beef mince, onion and rice"
+          }
+        ]
+      },
+      {
+        "name": "Soups",
+        "items": [
+          {
+            "name": "Boz-bash soup",
+            "price": 10.3,
+            "description": "Lamb, onion, potato, chickpeas"
+          },
+          {
+            "name": "Köfte soup",
+            "price": 9.9
+          }
+        ]
+      },
+      {
+        "name": "Snacks",
+        "items": [
+          {
+            "name": "Gözleme with lamb",
+            "price": 6.9
+          },
+          {
+            "name": "Lamb and beef dumplings (A`la Turca)",
+            "price": 7.3
+          },
+          {
+            "name": "Basturma",
+            "price": 6.9
+          }
+        ]
+      },
+      {
+        "name": "Dessert",
+        "items": [
+          {
+            "name": "Baklava",
+            "price": 5.4
+          }
+        ]
+      }
+    ],
+    "notes": "Antalya also serves beer and cider."
+  },
+  "kebaboom": {
+    "source": {
+      "label": "Wolt",
+      "url": "https://wolt.com/en/est/tallinn/restaurant/kebaboom-viru-keskus"
+    },
+    "priceType": "delivery",
+    "lastChecked": "2026-11-10",
+    "links": [
+      {
+        "label": "Full menu & order on Wolt",
+        "url": "https://wolt.com/en/est/tallinn/restaurant/kebaboom-viru-keskus"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Döner",
+        "items": [
+          {
+            "name": "The Original Döner",
+            "price": 11.3
+          },
+          {
+            "name": "Döner wrap with salad",
+            "price": 11.3
+          },
+          {
+            "name": "Döner wrap with fries",
+            "price": 11.3
+          },
+          {
+            "name": "Gangsta wrap",
+            "price": 10.4,
+            "description": "More meat, extra spicy"
+          },
+          {
+            "name": "Döner box with salad",
+            "price": 11.9
+          },
+          {
+            "name": "Döner box with fries",
+            "price": 11.9
+          },
+          {
+            "name": "Döner box with fries and salad",
+            "price": 11.9
+          },
+          {
+            "name": "Special döner box",
+            "price": 17.3,
+            "description": "Fries, salad, döner, falafel, jalapeño cheese bites, hummus"
+          }
+        ]
+      },
+      {
+        "name": "Combos",
+        "items": [
+          {
+            "name": "Original Döner + soft drink",
+            "price": 12.3
+          },
+          {
+            "name": "Combo for 1",
+            "price": 21.7
+          },
+          {
+            "name": "Combo for 2",
+            "price": 35
+          },
+          {
+            "name": "Combo for 4",
+            "price": 78.9
+          }
+        ]
+      }
+    ],
+    "notes": "Prices from Kebaboom Viru Keskus; other branches differ slightly. Kebaboom menus also list burgers with bacon, so the kitchen handles pork."
+  },
+  "tallinn-pizza-kebab": {
+    "source": {
+      "label": "Wolt",
+      "url": "https://wolt.com/en/est/tallinn/restaurant/pizza-kebab"
+    },
+    "priceType": "delivery",
+    "lastChecked": "2026-11-10",
+    "links": [
+      {
+        "label": "Full menu & order on Wolt",
+        "url": "https://wolt.com/en/est/tallinn/restaurant/pizza-kebab"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Kebab",
+        "items": [
+          {
+            "name": "Tortilla kebab with beef",
+            "price": 7.9
+          },
+          {
+            "name": "Tortilla kebab with chicken",
+            "price": 7.9
+          },
+          {
+            "name": "Kebab with rice, beef",
+            "price": 8.9
+          },
+          {
+            "name": "Kebab with rice, chicken",
+            "price": 8.9
+          },
+          {
+            "name": "Kebab with fries, beef",
+            "price": 8.9
+          },
+          {
+            "name": "Kebab with fries, chicken",
+            "price": 8.9
+          },
+          {
+            "name": "Kebab with salad, beef",
+            "price": 8.5
+          },
+          {
+            "name": "Kebab with salad, chicken",
+            "price": 8.5
+          },
+          {
+            "name": "Iskender kebab with chicken",
+            "price": 8.5
+          },
+          {
+            "name": "Pita kebab with chicken",
+            "price": 5.9
+          },
+          {
+            "name": "Hamburger, beef",
+            "price": 5.9
+          },
+          {
+            "name": "Hamburger, chicken",
+            "price": 5.9
+          },
+          {
+            "name": "Falafel pita",
+            "price": 6.5
+          }
+        ]
+      },
+      {
+        "name": "Dessert",
+        "items": [
+          {
+            "name": "Turkish baklava",
+            "price": 2
+          }
+        ]
+      }
+    ],
+    "notes": "The menu also lists a frankfurter hot dog. Ask what the sausage is made of."
+  },
+  "damak": {
+    "source": {
+      "label": "Wolt",
+      "url": "https://wolt.com/en/est/tallinn/restaurant/damak-doner-kebab"
+    },
+    "priceType": "delivery",
+    "lastChecked": "2026-11-10",
+    "links": [
+      {
+        "label": "Full menu & order on Wolt",
+        "url": "https://wolt.com/en/est/tallinn/restaurant/damak-doner-kebab"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Kebab meals",
+        "items": [
+          {
+            "name": "Kebab with fries and salad",
+            "price": 14.1
+          },
+          {
+            "name": "Kebab with fries and rice",
+            "price": 14.99
+          },
+          {
+            "name": "Lavash kebab with fries",
+            "price": 14.99
+          },
+          {
+            "name": "Pita kebab with fries",
+            "price": 15.77
+          },
+          {
+            "name": "Iskender kebab",
+            "price": 13.99
+          },
+          {
+            "name": "Kebab with rice",
+            "price": 13.99
+          },
+          {
+            "name": "Kebab with salad",
+            "price": 13.99
+          }
+        ]
+      }
+    ]
+  },
+  "ala-turca": {
+    "source": {
+      "label": "Wolt",
+      "url": "https://wolt.com/en/est/tallinn/restaurant/ala-turca-kebab"
+    },
+    "priceType": "delivery",
+    "lastChecked": "2026-11-10",
+    "links": [
+      {
+        "label": "Full menu & order on Wolt",
+        "url": "https://wolt.com/en/est/tallinn/restaurant/ala-turca-kebab"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Kebab",
+        "items": [
+          {
+            "name": "Kebab box",
+            "price": 13.48,
+            "description": "Chicken, beef, chilli and garlic sauce, fries"
+          }
+        ]
+      }
+    ]
+  },
+  "zaiqa": {
+    "source": {
+      "label": "Wolt",
+      "url": "https://wolt.com/en/est/tallinn/restaurant/zaiqatln"
+    },
+    "priceType": "delivery",
+    "lastChecked": "2026-11-10",
+    "links": [
+      {
+        "label": "Full menu & order on Wolt",
+        "url": "https://wolt.com/en/est/tallinn/restaurant/zaiqatln"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Deals",
+        "items": [
+          {
+            "name": "Kebab meal",
+            "price": 12.5
+          },
+          {
+            "name": "Pizza combo",
+            "price": 14.99
+          },
+          {
+            "name": "Burger combo",
+            "price": 12.99
+          },
+          {
+            "name": "2 × large kebab meal",
+            "price": 22.99
+          },
+          {
+            "name": "2 × large pizza combo",
+            "price": 24.99
+          },
+          {
+            "name": "Pizza + kebab combo",
+            "price": 28.5
+          },
+          {
+            "name": "Double meal",
+            "price": 25.99
+          }
+        ]
+      }
+    ]
+  },
+  "halalish": {
+    "source": {
+      "label": "Wolt",
+      "url": "https://wolt.com/en/est/tallinn/restaurant/halalish1"
+    },
+    "priceType": "delivery",
+    "lastChecked": "2026-11-10",
+    "links": [
+      {
+        "label": "Full menu & order on Wolt",
+        "url": "https://wolt.com/en/est/tallinn/restaurant/halalish1"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Combos",
+        "items": [
+          {
+            "name": "Boss Boost combo",
+            "price": 20.99
+          },
+          {
+            "name": "Boss combo",
+            "price": 17.49
+          },
+          {
+            "name": "Fire combo",
+            "price": 17.49
+          },
+          {
+            "name": "Hell Challenge combo",
+            "price": 17.49
+          },
+          {
+            "name": "Yankee Legend combo",
+            "price": 17.49
+          },
+          {
+            "name": "Boom Boom party",
+            "price": 20.49
+          }
+        ]
+      }
+    ],
+    "notes": "Smash burgers, sides and sauces are also on the full menu."
+  },
+  "kebab-house-gonsiori": {
+    "source": {
+      "label": "Wolt",
+      "url": "https://wolt.com/en/est/tallinn/restaurant/kebab-house-tln"
+    },
+    "priceType": "delivery",
+    "lastChecked": "2026-11-10",
+    "links": [
+      {
+        "label": "Full menu & order on Wolt",
+        "url": "https://wolt.com/en/est/tallinn/restaurant/kebab-house-tln"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Specials",
+        "items": [
+          {
+            "name": "Chicken mandi",
+            "price": 16
+          },
+          {
+            "name": "Lamb mandi",
+            "price": 26
+          }
+        ]
+      },
+      {
+        "name": "Crispy chicken",
+        "items": [
+          {
+            "name": "Crispy chicken",
+            "price": 9.5
+          },
+          {
+            "name": "Crispy chicken with salad",
+            "price": 8.5
+          }
+        ]
+      }
+    ],
+    "notes": "Shawarma plates, falafel, grills and wraps are also on the full menu."
+  },
+  "papa-joe": {
+    "source": {
+      "label": "Wolt",
+      "url": "https://wolt.com/en/est/tallinn/restaurant/papa-joes"
+    },
+    "priceType": "delivery",
+    "lastChecked": "2026-11-10",
+    "links": [
+      {
+        "label": "Full menu & order on Wolt",
+        "url": "https://wolt.com/en/est/tallinn/restaurant/papa-joes"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Popular",
+        "items": [
+          {
+            "name": "Hummus 200 g",
+            "price": 4.5,
+            "description": "Handmade: chickpeas, tahini, lemon, garlic"
+          }
+        ]
+      },
+      {
+        "name": "Catering",
+        "items": [
+          {
+            "name": "Mezze selection for 8 people",
+            "price": 55,
+            "description": "Order 1 hour ahead. Falafel, hummus, baba ganoush and more"
+          }
+        ]
+      }
+    ],
+    "notes": "Chicken and beef kebab wraps and plates are also on the full menu."
+  },
+  "samsa": {
+    "source": {
+      "label": "Wolt",
+      "url": "https://wolt.com/en/est/tallinn/restaurant/samsa-family-bakers"
+    },
+    "priceType": "delivery",
+    "lastChecked": "2026-11-10",
+    "links": [
+      {
+        "label": "Full menu & order on Wolt",
+        "url": "https://wolt.com/en/est/tallinn/restaurant/samsa-family-bakers"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Combos",
+        "items": [
+          {
+            "name": "Shurpa + samsa with beef",
+            "price": 12.56
+          },
+          {
+            "name": "Ugra-osh + samsa with beef",
+            "price": 11.52
+          },
+          {
+            "name": "Shurpa + kaurma lagman",
+            "price": 22
+          },
+          {
+            "name": "Uzbek pilaf with lamb + shurpa with lamb",
+            "price": 22.1
+          },
+          {
+            "name": "Uzbek pilaf + shurpa + cheburek",
+            "price": 29.03
+          },
+          {
+            "name": "Manti + Uzbek pilaf + achu-chuk",
+            "price": 32
+          }
+        ]
+      }
+    ],
+    "notes": "Prices from the Balti Jaam branch; other branches differ slightly."
+  },
+  "has-kebab": {
+    "source": {
+      "label": "Wolt",
+      "url": "https://wolt.com/en/est/tartu/restaurant/has-kebab-centre"
+    },
+    "priceType": "delivery",
+    "lastChecked": "2026-11-10",
+    "links": [
+      {
+        "label": "Full menu & order on Wolt",
+        "url": "https://wolt.com/en/est/tartu/restaurant/has-kebab-centre"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Deals",
+        "items": [
+          {
+            "name": "Double kebab box + 2 drinks",
+            "price": 24
+          },
+          {
+            "name": "Double kebab plate + extra meat + drink",
+            "price": 25.8
+          },
+          {
+            "name": "Large kebab combo for two",
+            "price": 31.2
+          },
+          {
+            "name": "3 × döner box",
+            "price": 36
+          },
+          {
+            "name": "Kebab platter for four",
+            "price": 51.6
+          }
+        ]
+      }
+    ],
+    "notes": "Single kebabs, pitas and döner boxes are also on the full menu."
+  },
+  "kebab-stop": {
+    "source": {
+      "label": "Wolt",
+      "url": "https://wolt.com/en/est/tartu/restaurant/kebab-stop-turu"
+    },
+    "priceType": "delivery",
+    "lastChecked": "2026-11-10",
+    "links": [
+      {
+        "label": "Full menu & order on Wolt",
+        "url": "https://wolt.com/en/est/tartu/restaurant/kebab-stop-turu"
+      }
+    ],
+    "sections": [
+      {
+        "name": "Kebab plates",
+        "items": [
+          {
+            "name": "Kebab box",
+            "price": 8.5
+          },
+          {
+            "name": "Kebab plate",
+            "price": 9.5
+          },
+          {
+            "name": "Halal snack pack",
+            "price": 11
+          }
+        ]
+      }
+    ],
+    "notes": "Prices from the Kebab Stop branch at Turu 37 on Wolt."
+  },
+  "kebab-plus": {
+    "source": {
+      "label": "Wolt",
+      "url": "https://wolt.com/en/est/tartu/restaurant/kebab-plus-1"
+    },
+    "priceType": "delivery",
+    "lastChecked": "2026-11-10",
+    "links": [
+      {
+        "label": "Full menu & order on Wolt",
+        "url": "https://wolt.com/en/est/tartu/restaurant/kebab-plus-1"
+      }
+    ],
+    "sections": [],
+    "notes": "Describes itself on Wolt as a halal kebab restaurant: kebabs, wraps, burgers and fries, with chicken or beef."
+  },
+  "dawat": {
+    "source": {
+      "label": "Wolt",
+      "url": "https://wolt.com/en/est/tallinn/restaurant/dawat-kebab-restaurant"
+    },
+    "priceType": "delivery",
+    "lastChecked": "2026-11-10",
+    "links": [
+      {
+        "label": "Full menu & order on Wolt",
+        "url": "https://wolt.com/en/est/tallinn/restaurant/dawat-kebab-restaurant"
+      }
+    ],
+    "sections": [],
+    "notes": "Biryani, karahi and curries, kebab rolls, kebab & grill, shawarma, naan and pizza. See prices on Wolt."
+  },
+  "kfc": {
+    "source": {
+      "label": "Wolt",
+      "url": "https://wolt.com/en/est/tallinn/kfc_est"
+    },
+    "priceType": "delivery",
+    "lastChecked": "2026-11-10",
+    "links": [
+      {
+        "label": "KFC Tallinn on Wolt",
+        "url": "https://wolt.com/en/est/tallinn/kfc_est"
+      },
+      {
+        "label": "KFC Estonia website",
+        "url": "https://kfc.ee/"
+      }
+    ],
+    "sections": [],
+    "notes": "KFC changes its combos every few weeks, so prices are not copied here. Some burgers contain bacon."
+  },
+  "halal-ee": {
+    "source": {
+      "label": "Halal.ee",
+      "url": "https://halal.ee/"
+    },
+    "priceType": "in_store",
+    "lastChecked": "2026-11-10",
+    "links": [
+      {
+        "label": "Shop on Halal.ee",
+        "url": "https://halal.ee/"
+      },
+      {
+        "label": "Delivery prices",
+        "url": "https://halal.ee/delivery/"
+      }
+    ],
+    "sections": [],
+    "notes": "Fresh and frozen halal meat, honey and dates. Minimum order €20; Tallinn delivery €8, free over €40."
+  }
+}

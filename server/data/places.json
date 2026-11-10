@@ -1,0 +1,1248 @@
+[
+  {
+    "id": "anadolu-gourmet",
+    "name": "Anadolu Gourmet",
+    "type": "butcher",
+    "city": "Tallinn",
+    "address": "Kiikri 6, Tallinn",
+    "image": null,
+    "logo": "/places/anadolu-gourmet-logo.png",
+    "menu": null,
+    "meats": [
+      "beef",
+      "lamb"
+    ],
+    "halalStatus": "customer_reports",
+    "delivery": false,
+    "notes": "Turkish butcher. Customers describe fresh halal beef and lamb, minced meat and meatballs, cut to order. Tel +372 5326 8182.",
+    "lat": 59.44288,
+    "lng": 24.7814,
+    "googlePlaceId": "ChIJxwrEFwCTkkYRlY2oPh8IW4w",
+    "sources": [
+      "https://www.google.com/maps/place/?q=place_id:ChIJxwrEFwCTkkYRlY2oPh8IW4w"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "halal-meat-keskturg",
+    "name": "Halal Meat (Keskturg)",
+    "type": "butcher",
+    "city": "Tallinn",
+    "address": "Keldrimäe 9, Tallinn (Keskturg meat hall, floor -1)",
+    "image": null,
+    "logo": "/places/kesturg-logo.jpeg",
+    "menu": null,
+    "meats": [
+      "chicken",
+      "beef",
+      "lamb"
+    ],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Stall in the Central Market meat hall. Guides mention halal poultry and lamb; customers mention beef liver. Hygiene reviews are mixed. Tel +372 5692 5626.",
+    "lat": 59.43032,
+    "lng": 24.76638,
+    "googlePlaceId": "ChIJx3fbCCyVkkYRpG989nA2A20",
+    "sources": [
+      "https://halalfoodle.com/restaurants/estonia/tallinn/halal-meat-keldrimae-9",
+      "https://halalfreak.com/halal-food/estonia/"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "turgi-pood",
+    "name": "Türgi Pood",
+    "type": "butcher",
+    "city": "Tallinn",
+    "address": "Kopli 1, Tallinn (Balti Jaama Turg)",
+    "image": null,
+    "logo": "/places/turgi-logo.jpeg",
+    "menu": null,
+    "meats": [],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Turkish shop and butcher in the Baltic Station Market. Some recent reviews complain about expired packaged products, so check dates. Tel +372 5346 6050.",
+    "lat": 59.44122,
+    "lng": 24.73477,
+    "googlePlaceId": "ChIJe-cJ6rCTkkYRbtXUvcO9ARk",
+    "sources": [
+      "https://www.google.com/maps/place/?q=place_id:ChIJe-cJ6rCTkkYRbtXUvcO9ARk"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "halal-ee",
+    "name": "Halal.ee",
+    "type": "online",
+    "city": "Tallinn",
+    "address": "Online, pickup in Tallinn",
+    "image": null,
+    "logo": "/places/halal.ee.jpeg",
+    "menu": "halal-ee",
+    "meats": [
+      "beef",
+      "lamb",
+      "chicken"
+    ],
+    "halalStatus": "venue_claim",
+    "delivery": true,
+    "notes": "Family-run halal butchery and grocer since 2020. Fresh and frozen halal meat. Delivery in Tallinn €8, free over €40; across Estonia via Cargobus from €10. Tel +372 5200 218.",
+    "lat": null,
+    "lng": null,
+    "googlePlaceId": null,
+    "sources": [
+      "https://halal.ee/",
+      "https://halal.ee/delivery/"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "igavesti",
+    "name": "Igavesti",
+    "type": "shop",
+    "city": "Tallinn",
+    "address": "Peterburi tee 2, Tallinn (T1 Mall, shop 164)",
+    "image": null,
+    "logo": "/places/igavesti.jpg",
+    "menu": null,
+    "meats": [],
+    "halalStatus": "third_party_listing",
+    "delivery": true,
+    "notes": "South Asian grocery: halal meat, frozen paratha, Shan and National masalas, rice. Customers say they deliver to Tartu. Tel +372 5848 3183.",
+    "lat": 59.42471,
+    "lng": 24.79523,
+    "googlePlaceId": "ChIJZcm4MCaVkkYRKDkFAgoyW8Q",
+    "sources": [
+      "https://en.halalguide.me/tallin/produktoviy-magazin",
+      "https://www.google.com/maps/place/?q=place_id:ChIJZcm4MCaVkkYRKDkFAgoyW8Q"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "asian-mart",
+    "name": "Asian Mart",
+    "type": "shop",
+    "city": "Tallinn",
+    "address": "E. Vilde tee 73, Tallinn",
+    "image": null,
+    "logo": "/places/asian-mart.jpg",
+    "menu": null,
+    "meats": [],
+    "halalStatus": "customer_reports",
+    "delivery": false,
+    "notes": "Asian and African grocery in Mustamäe. Customers mention halal meats and frozen fish. Tel +372 5864 2220.",
+    "lat": 59.40235,
+    "lng": 24.68666,
+    "googlePlaceId": "ChIJJa0EPlWVkkYRwa1EX_E7wMQ",
+    "sources": [
+      "https://www.google.com/maps/place/?q=place_id:ChIJJa0EPlWVkkYRwa1EX_E7wMQ"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "nur-market",
+    "name": "NUR Market",
+    "type": "shop",
+    "city": "Tallinn",
+    "address": "Aia 5b, Tallinn",
+    "image": null,
+    "logo": "/places/nur.jpeg",
+    "menu": null,
+    "meats": [],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Turkish and other Eastern and halal foods. Call to confirm fresh/frozen meat stock. Tel +372 633 7777.",
+    "lat": 59.43789,
+    "lng": 24.75104,
+    "googlePlaceId": "ChIJURjWPwKTkkYRBvHkU_U4FSA",
+    "sources": [
+      "https://inyourpocket.com/tallinn/nur-market_149918v",
+      "https://www.google.com/maps/place/?q=place_id:ChIJURjWPwKTkkYRBvHkU_U4FSA"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "nur-vikerlase",
+    "name": "Nur (Lasnamäe)",
+    "type": "shop",
+    "city": "Tallinn",
+    "address": "Vikerlase 23, Tallinn",
+    "image": null,
+    "logo": "/places/nur-lasname.jpeg",
+    "menu": null,
+    "meats": [],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Listed as a halal store by HalalGuide. No other details found.",
+    "lat": 59.43974,
+    "lng": 24.84475,
+    "googlePlaceId": null,
+    "sources": [
+      "https://en.halalguide.me/tallin/produktoviy-magazin"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "shop-lasnamae-pae70",
+    "name": "Shop Lasnamäe",
+    "type": "shop",
+    "city": "Tallinn",
+    "address": "Pae 70, Tallinn",
+    "image": null,
+    "logo": "/places/shop-lasname.jpg",
+    "menu": null,
+    "meats": [],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Listed as a halal store by HalalGuide. No other details found.",
+    "lat": null,
+    "lng": null,
+    "googlePlaceId": null,
+    "sources": [
+      "https://en.halalguide.me/tallin/produktoviy-magazin"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "arab-store-pae76",
+    "name": "Arab Store",
+    "type": "shop",
+    "city": "Tallinn",
+    "address": "Pae 76, Tallinn",
+    "image": null,
+    "logo": "/places/arab-shop.jpeg",
+    "menu": null,
+    "meats": [],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Listed as an Arab products store by HalalGuide. Google Maps shows Sorin Shop (Persian and Middle Eastern groceries) at this address. Ask about meat.",
+    "lat": 59.43632,
+    "lng": 24.82206,
+    "googlePlaceId": "ChIJvWOZS5DtkkYRHE_vf3JQLxw",
+    "sources": [
+      "https://en.halalguide.me/tallin/produktoviy-magazin",
+      "https://www.google.com/maps/place/?q=place_id:ChIJvWOZS5DtkkYRHE_vf3JQLxw"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "lihuniku-ari-tartu",
+    "name": "Lihuniku Äri",
+    "type": "butcher",
+    "city": "Tartu",
+    "address": "Ülikooli 2a, Tartu",
+    "image": null,
+    "logo": "/places/lihuniku.jpg",
+    "menu": null,
+    "meats": [
+      "beef",
+      "lamb"
+    ],
+    "halalStatus": "customer_reports",
+    "delivery": false,
+    "notes": "Butcher and restaurant with grass-fed beef and lamb. Only one customer review says it is halal, and it also sells pork. Ask before buying.",
+    "lat": 58.37762,
+    "lng": 26.72418,
+    "googlePlaceId": "ChIJW8H9J94260YRB2eUFjN-_nQ",
+    "sources": [
+      "https://wanderlog.com/place/details/3084773/lihuniku-äri"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "kebaboom-viru",
+    "name": "Kebaboom (Viru Keskus)",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Viru väljak 4, Tallinn",
+    "image": null,
+    "logo": "/places/kebeb boom viru.png",
+    "menu": "kebaboom",
+    "meats": [
+      "chicken",
+      "beef"
+    ],
+    "halalStatus": "venue_claim",
+    "delivery": false,
+    "notes": "Halal döner meat imported from Berlin. Mostly chicken, sometimes beef. Serves alcohol. Its menu also lists burgers with bacon, so the kitchen handles pork.",
+    "lat": 59.43573,
+    "lng": 24.75503,
+    "googlePlaceId": "ChIJY6QrSVmTkkYRg0FIKe2LYL0",
+    "sources": [
+      "https://balticguide.ee/en/doner-kebab-heaven",
+      "https://www.google.com/maps/place/?q=place_id:ChIJY6QrSVmTkkYRg0FIKe2LYL0"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "kebaboom-solaris",
+    "name": "Kebaboom (Solaris)",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Estonia puiestee 9, Tallinn",
+    "image": null,
+    "logo": "/places/kebab boom solaris.png",
+    "menu": "kebaboom",
+    "meats": [
+      "chicken",
+      "beef"
+    ],
+    "halalStatus": "venue_claim",
+    "delivery": false,
+    "notes": "Kebaboom chain branch. Its menu also lists burgers with bacon, so the kitchen handles pork.",
+    "lat": 59.43312,
+    "lng": 24.75193,
+    "googlePlaceId": "ChIJM3QmsXWVkkYR09SmYrQqfjs",
+    "sources": [
+      "https://balticguide.ee/en/doner-kebab-heaven",
+      "https://www.google.com/maps/place/?q=place_id:ChIJM3QmsXWVkkYR09SmYrQqfjs"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "kebaboom-balti-jaam",
+    "name": "Kebaboom (Balti Jaama Turg)",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Kopli 1, Tallinn",
+    "image": null,
+    "logo": "/places/kebab boom balti jaam.png",
+    "menu": "kebaboom",
+    "meats": [
+      "chicken",
+      "beef"
+    ],
+    "halalStatus": "venue_claim",
+    "delivery": false,
+    "notes": "Kebaboom chain branch. Its menu also lists burgers with bacon, so the kitchen handles pork.",
+    "lat": 59.44107,
+    "lng": 24.73531,
+    "googlePlaceId": "ChIJ8_dF74CTkkYR_WT4YzsPtw0",
+    "sources": [
+      "https://balticguide.ee/en/doner-kebab-heaven",
+      "https://www.google.com/maps/place/?q=place_id:ChIJ8_dF74CTkkYR_WT4YzsPtw0"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "kebaboom-parnamae",
+    "name": "Kebaboom (Pärnamäe)",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Pärnamäe tee 4a, Tallinn",
+    "image": null,
+    "logo": "/places/kebab boom parname.png",
+    "menu": "kebaboom",
+    "meats": [
+      "chicken",
+      "beef"
+    ],
+    "halalStatus": "venue_claim",
+    "delivery": false,
+    "notes": "Kebaboom chain branch. Its menu also lists burgers with bacon, so the kitchen handles pork.",
+    "lat": 59.46196,
+    "lng": 24.90554,
+    "googlePlaceId": "ChIJSSkfh92VkkYRKcNxqkNPGgQ",
+    "sources": [
+      "https://balticguide.ee/en/doner-kebab-heaven",
+      "https://www.google.com/maps/place/?q=place_id:ChIJSSkfh92VkkYRKcNxqkNPGgQ"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "kebaboom-narva-mnt",
+    "name": "Kebaboom (Narva maantee)",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Narva mnt, Tallinn",
+    "image": null,
+    "logo": "/places/kebab boom narva mante.png",
+    "menu": "kebaboom",
+    "meats": [
+      "chicken",
+      "beef"
+    ],
+    "halalStatus": "venue_claim",
+    "delivery": false,
+    "notes": "Kebaboom chain branch, open late at weekends. Its menu also lists burgers with bacon, so the kitchen handles pork.",
+    "lat": 59.4381,
+    "lng": 24.76798,
+    "googlePlaceId": "ChIJiZkmXQCTkkYRU4SbBV7Ymso",
+    "sources": [
+      "https://balticguide.ee/en/doner-kebab-heaven",
+      "https://www.google.com/maps/place/?q=place_id:ChIJiZkmXQCTkkYRU4SbBV7Ymso"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "damak-doner",
+    "name": "Damak Döner & Kebab",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Kaubamaja 6, Tallinn",
+    "image": null,
+    "logo": "/places/damak donar.png",
+    "menu": "damak",
+    "meats": [
+      "chicken"
+    ],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Fully halal, no alcohol, prayer space. Authorised by an Islamic organisation according to Zabihah.",
+    "lat": 59.4346,
+    "lng": 24.75546,
+    "googlePlaceId": "ChIJsy9WD2CTkkYRbxYcRHVQ1pk",
+    "sources": [
+      "https://zabihah.com/restaurants/cb8c1ab5-7767-11ef-95ae-6045bdeb9f57/damak-dner-kebab-tallinn-harju-maakond"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "gulluzadem",
+    "name": "Güllüzadem Kebab & Pizza & Baklava",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Teatri väljak 1, Tallinn",
+    "image": null,
+    "logo": "/places/gulluzadam.png",
+    "menu": "gulluzadem",
+    "meats": [],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Listed as fully halal, halal certified, no alcohol.",
+    "lat": 59.43423,
+    "lng": 24.75249,
+    "googlePlaceId": "ChIJuS8aixfrkkYRQXybOgkZQ7k",
+    "sources": [
+      "https://halalfoodle.com/restaurants/estonia/harju/tallinn",
+      "https://www.google.com/maps/place/?q=place_id:ChIJuS8aixfrkkYRQXybOgkZQ7k"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "dawat",
+    "name": "Dawat Kebab Restaurant",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Narva mnt 31, Tallinn",
+    "image": null,
+    "logo": "/places/dawat kebab.png",
+    "menu": "dawat",
+    "meats": [
+      "chicken",
+      "lamb"
+    ],
+    "halalStatus": "customer_reports",
+    "delivery": false,
+    "notes": "Pakistani/Indian: biryani, chicken karahi, lamb biryani. Big portions. Customers call it a good halal option.",
+    "lat": 59.43901,
+    "lng": 24.77394,
+    "googlePlaceId": "ChIJk1WdcQCTkkYRGolUww3DYtU",
+    "sources": [
+      "https://www.mustakshif.com/business-list/list-of-halal-verified-businesses-in-estonia",
+      "https://www.google.com/maps/place/?q=place_id:ChIJk1WdcQCTkkYRGolUww3DYtU"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "zaiqa",
+    "name": "Zaiqa",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Väike-Karja 1, Tallinn",
+    "image": null,
+    "logo": "/places/zaiqa.png",
+    "menu": "zaiqa",
+    "meats": [],
+    "halalStatus": "venue_claim",
+    "delivery": false,
+    "notes": "Pakistani/Indian, kebab, grill, pizza. Advertises \"All Halal Food\". Open late.",
+    "lat": 59.43595,
+    "lng": 24.74688,
+    "googlePlaceId": "ChIJSbUe7JWTkkYRbflE7QiWlQI",
+    "sources": [
+      "https://wolt.com/en/est/tallinn/restaurant/zaiqatln"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "quick-bites",
+    "name": "Quick Bites",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Väike-Karja 1, Tallinn",
+    "image": null,
+    "logo": "/places/quick bites.png",
+    "menu": null,
+    "meats": [],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Halal fast food according to a guide. Serves alcohol.",
+    "lat": 59.43597,
+    "lng": 24.74685,
+    "googlePlaceId": "ChIJSxlmtouTkkYRU0Ydt38_vHk",
+    "sources": [
+      "https://halalspy.com/halal-food-guide/europe/estonia/"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "halalish",
+    "name": "HalaLish (Kadriorg)",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "K. A. Hermanni 2, Tallinn",
+    "image": null,
+    "logo": "/places/halalish hermanni.png",
+    "menu": "halalish",
+    "meats": [
+      "beef"
+    ],
+    "halalStatus": "venue_claim",
+    "delivery": false,
+    "notes": "Burgers made with halal beef. Evenings only.",
+    "lat": 59.42948,
+    "lng": 24.77478,
+    "googlePlaceId": "ChIJyWotmKGVkkYRMXILAUMwzHg",
+    "sources": [
+      "https://wolt.com/en/est/tallinn/restaurant/halalish1",
+      "https://www.google.com/maps/place/?q=place_id:ChIJyWotmKGVkkYRMXILAUMwzHg"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "halalish-telliskivi",
+    "name": "HalaLish (Telliskivi)",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Telliskivi 24, Tallinn",
+    "image": null,
+    "logo": "/places/halalish telliskivi.png",
+    "menu": "halalish",
+    "meats": [
+      "beef"
+    ],
+    "halalStatus": "venue_claim",
+    "delivery": false,
+    "notes": "Second HalaLish branch. Burgers and wedges, open until midnight.",
+    "lat": 59.4359,
+    "lng": 24.72095,
+    "googlePlaceId": "ChIJsU62_W6VkkYR59D3EaBez5w",
+    "sources": [
+      "https://www.google.com/maps/place/?q=place_id:ChIJsU62_W6VkkYR59D3EaBez5w"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "antalya",
+    "name": "Antalya Restaurant",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Nõmme tee 7, Tallinn",
+    "image": null,
+    "logo": "/places/antalya restoran.png",
+    "menu": "antalya",
+    "meats": [],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Turkish: kebabs, grills, pide, meze. Guides say it has a halal menu from halal-certified suppliers. Serves beer and cider.",
+    "lat": 59.42109,
+    "lng": 24.72434,
+    "googlePlaceId": "ChIJf4FaLJKUkkYRrBjKZiovnGs",
+    "sources": [
+      "https://halalspy.com/halal-food-guide/europe/estonia/"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "ala-turca",
+    "name": "Ala Turca / Döner Kebab",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Aia 7, Tallinn",
+    "image": null,
+    "logo": "/places/ala turca.png",
+    "menu": "ala-turca",
+    "meats": [],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Old Town kebab, open late. Listed with halal meat by halal directories; customers also say halal.",
+    "lat": 59.4381,
+    "lng": 24.75103,
+    "googlePlaceId": "ChIJ59jB77iTkkYRr9IzZvNZ7q4",
+    "sources": [
+      "https://www.mustakshif.com/business-list/list-of-halal-verified-businesses-in-estonia",
+      "https://halalfoodle.com/restaurants/estonia/harju/tallinn"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "tallinn-pizza-kebab",
+    "name": "Tallinn Pizza & Kebab",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Aia 10, Tallinn",
+    "image": null,
+    "logo": "/places/tallinn pizza.png",
+    "menu": "tallinn-pizza-kebab",
+    "meats": [],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Old Town kebab, open 24 hours. Listed with halal meat. Serves alcohol.",
+    "lat": 59.43822,
+    "lng": 24.75135,
+    "googlePlaceId": "ChIJsbdfomGTkkYRgBfbk7zK1lY",
+    "sources": [
+      "https://halalfoodle.com/restaurants/estonia/harju/tallinn",
+      "https://www.google.com/maps/place/?q=place_id:ChIJsbdfomGTkkYRgBfbk7zK1lY"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "kebab-house-gonsiori",
+    "name": "Kebab House (حلال)",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Gonsiori 12, Tallinn",
+    "image": null,
+    "logo": "/places/kebab house.png",
+    "menu": "kebab-house-gonsiori",
+    "meats": [],
+    "halalStatus": "venue_claim",
+    "delivery": false,
+    "notes": "Puts \"halal\" (حلال) in its own name.",
+    "lat": 59.43473,
+    "lng": 24.76256,
+    "googlePlaceId": "ChIJO9seBl-TkkYRab6s-pvJ5GY",
+    "sources": [
+      "https://www.google.com/maps/place/?q=place_id:ChIJO9seBl-TkkYRab6s-pvJ5GY"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "chakra",
+    "name": "Chakra",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Bremeni käik 1, Tallinn",
+    "image": null,
+    "logo": "/places/chakra.png",
+    "menu": null,
+    "meats": [],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Indian restaurant in the Old Town with a halal menu according to guides.",
+    "lat": 59.43936,
+    "lng": 24.74939,
+    "googlePlaceId": "ChIJ36bd22OTkkYRprjnM4kbNfM",
+    "sources": [
+      "https://halalspy.com/halal-food-guide/europe/estonia/"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "matka",
+    "name": "Matka Restaurant",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Küti tee 4, Peetri",
+    "image": null,
+    "logo": "/places/matka.png",
+    "menu": null,
+    "meats": [],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Indian. Listed as a halal restaurant on Google Maps.",
+    "lat": 59.39763,
+    "lng": 24.80482,
+    "googlePlaceId": "ChIJ74OFFtyVkkYRWtC9F9yCiVY",
+    "sources": [
+      "https://www.google.com/maps/place/?q=place_id:ChIJ74OFFtyVkkYRWtC9F9yCiVY"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "meze-viru",
+    "name": "MEZE (Viru Keskus Food Hall)",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Viru väljak 4, Tallinn",
+    "image": null,
+    "logo": "/places/meze.png",
+    "menu": null,
+    "meats": [],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Middle Eastern. Listed with halal meat. Serves alcohol.",
+    "lat": 59.43648,
+    "lng": 24.75491,
+    "googlePlaceId": "ChIJX_5Cg_GTkkYR09Xb9yKJpgQ",
+    "sources": [
+      "https://halalfoodle.com/restaurants/estonia/harju/tallinn",
+      "https://www.google.com/maps/place/?q=place_id:ChIJX_5Cg_GTkkYR09Xb9yKJpgQ"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "papa-joe-sadama",
+    "name": "Papa Joe (Sadama)",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Sadama 25-4, Tallinn",
+    "image": null,
+    "logo": "/places/papa joe.png",
+    "menu": "papa-joe",
+    "meats": [],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Lebanese, near the ferry terminal. Listed with halal meat; customers also say the meat is halal. Short opening hours.",
+    "lat": 59.44339,
+    "lng": 24.75948,
+    "googlePlaceId": "ChIJlSDQtGeTkkYRFYRdHmxYl7Y",
+    "sources": [
+      "https://halalfoodle.com/restaurants/estonia/harju/tallinn",
+      "https://www.google.com/maps/place/?q=place_id:ChIJlSDQtGeTkkYRFYRdHmxYl7Y"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "turgi-bbq",
+    "name": "Türgi BBQ",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Kopli 4A, Tallinn",
+    "image": null,
+    "logo": "/places/turgi bbq.png",
+    "menu": null,
+    "meats": [],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Top of Tripadvisor's halal filter for Tallinn. Google Maps now shows \"Osman Grill 2\" at this address, so it may have been renamed. Check before going.",
+    "lat": 59.44128,
+    "lng": 24.73693,
+    "googlePlaceId": null,
+    "sources": [
+      "https://www.tripadvisor.com/Restaurants-g274958-zfz10751-Tallinn_Harju_County.html"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "kebabi-wabrik",
+    "name": "Kebabi Wabrik",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Erika 14, Tallinn (Arsenal Centre)",
+    "image": null,
+    "logo": "/places/kebabi wabrik.png",
+    "menu": null,
+    "meats": [],
+    "halalStatus": "customer_reports",
+    "delivery": false,
+    "notes": "Kebab in Põhja-Tallinn. A reviewer calls it one of the few halal places in Tallinn.",
+    "lat": 59.4515,
+    "lng": 24.71656,
+    "googlePlaceId": "ChIJiY6dZIOTkkYRhGYk1rq95pU",
+    "sources": [
+      "https://www.tripadvisor.com/Restaurants-g274958-c10663-Tallinn_Harju_County.html",
+      "https://www.google.com/maps/place/?q=place_id:ChIJiY6dZIOTkkYRhGYk1rq95pU"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "square-kebab",
+    "name": "Square Resto",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Vabaduse väljak 9, Tallinn",
+    "image": null,
+    "logo": "/places/square resto.jpeg",
+    "menu": null,
+    "meats": [
+      "beef"
+    ],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Formerly Square Kebab, by the Freedom Square underpass. Staff verbally confirmed halal to Zabihah. Partially halal, serves alcohol.",
+    "lat": 59.43322,
+    "lng": 24.74378,
+    "googlePlaceId": "ChIJNd3hJZyUkkYRFEwjZK5owek",
+    "sources": [
+      "https://www.zabihah.com/restaurants/cb70b32f-7767-11ef-95ae-6045bdeb9f57/square-kebab-tallinn-harju-maakond",
+      "https://www.google.com/maps/place/?q=place_id:ChIJNd3hJZyUkkYRFEwjZK5owek"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "estonian-burger-factory",
+    "name": "Estonian Burger Factory",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Lootsi 10, Tallinn",
+    "image": null,
+    "logo": "/places/estonian burger factory.png",
+    "menu": null,
+    "meats": [
+      "chicken"
+    ],
+    "halalStatus": "venue_claim",
+    "delivery": false,
+    "notes": "Uses only halal chicken. Its beef and lamb are organic but NOT stated as halal.",
+    "lat": 59.44156,
+    "lng": 24.76532,
+    "googlePlaceId": "ChIJM-kDR2iTkkYRxRGbEcEkhsc",
+    "sources": [
+      "https://visittallinn.ee/eng/visitor/near-me/179082/restaurant-estonian-burger-factory",
+      "https://www.google.com/maps/place/?q=place_id:ChIJM-kDR2iTkkYRxRGbEcEkhsc"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "kebaboom-tartu",
+    "name": "Kebaboom (Lõunakeskus)",
+    "type": "restaurant",
+    "city": "Tartu",
+    "address": "Ringtee 75, Tartu (Lõunakeskus)",
+    "image": null,
+    "logo": "/places/kebab boom lounakeskus.png",
+    "menu": "kebaboom",
+    "meats": [
+      "chicken",
+      "beef"
+    ],
+    "halalStatus": "venue_claim",
+    "delivery": false,
+    "notes": "Kebaboom chain branch in Lõunakeskus mall. Its menu also lists burgers with bacon, so the kitchen handles pork.",
+    "lat": 58.35833,
+    "lng": 26.67821,
+    "googlePlaceId": "ChIJcfARGJI360YReEz163hJU18",
+    "sources": [
+      "https://balticguide.ee/en/doner-kebab-heaven",
+      "https://www.google.com/maps/place/?q=place_id:ChIJcfARGJI360YReEz163hJU18"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "tartu-flame",
+    "name": "Tartu Flame",
+    "type": "restaurant",
+    "city": "Tartu",
+    "address": "Küüni 7, Tartu",
+    "image": null,
+    "logo": "/places/tartu flame.png",
+    "menu": null,
+    "meats": [],
+    "halalStatus": "customer_reports",
+    "delivery": false,
+    "notes": "Kebab, burgers, pizza. Customers call it truly halal. Has a bar.",
+    "lat": 58.37776,
+    "lng": 26.72437,
+    "googlePlaceId": "ChIJe2-kGps360YRj-rK6OG-eJ4",
+    "sources": [
+      "https://www.google.com/maps/place/?q=place_id:ChIJe2-kGps360YRj-rK6OG-eJ4"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "has-kebab-kyyni",
+    "name": "HAS Kebab (Küüni)",
+    "type": "restaurant",
+    "city": "Tartu",
+    "address": "Küüni 5b, Tartu",
+    "image": null,
+    "logo": "/places/has kebab.png",
+    "menu": "has-kebab",
+    "meats": [],
+    "halalStatus": "customer_reports",
+    "delivery": false,
+    "notes": "Cheap, large portions. A customer describes it as a solid halal spot. Second branch at Võru 2.",
+    "lat": 58.37844,
+    "lng": 26.72457,
+    "googlePlaceId": "ChIJ3aDMPAE360YR8-uLlQm0Sxs",
+    "sources": [
+      "https://www.google.com/maps/place/?q=place_id:ChIJ3aDMPAE360YR8-uLlQm0Sxs"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "kebab-stop-tartu",
+    "name": "Kebab Stop",
+    "type": "restaurant",
+    "city": "Tartu",
+    "address": "Väike-Tähe 20, Tartu",
+    "image": null,
+    "logo": "/places/kebab stop.png",
+    "menu": "kebab-stop",
+    "meats": [
+      "chicken"
+    ],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Turkish grill described as a halal option by a travel listing.",
+    "lat": 58.37226,
+    "lng": 26.72044,
+    "googlePlaceId": "ChIJb_YCjrk360YRfR3hB8qk-iQ",
+    "sources": [
+      "https://wanderlog.com/place/details/6919676/kebab-stop-turu",
+      "https://www.google.com/maps/place/?q=place_id:ChIJb_YCjrk360YRfR3hB8qk-iQ"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "kebab-plus-tartu",
+    "name": "Kebab Plus",
+    "type": "restaurant",
+    "city": "Tartu",
+    "address": "Võru 55f, Tartu",
+    "image": null,
+    "logo": "/places/kebab plus.jpeg",
+    "menu": "kebab-plus",
+    "meats": [],
+    "halalStatus": "venue_claim",
+    "delivery": false,
+    "notes": "Calls itself a halal kebab restaurant (shawarma).",
+    "lat": 58.36526,
+    "lng": 26.7194,
+    "googlePlaceId": "ChIJoQTlLxU360YRoEkvFYxh4Zc",
+    "sources": [
+      "https://wolt.com/en/est/tartu/restaurant/kebab-plus-1",
+      "https://www.google.com/maps/place/?q=place_id:ChIJoQTlLxU360YRoEkvFYxh4Zc"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "kana4you",
+    "name": "Kana4 You (حلال)",
+    "type": "restaurant",
+    "city": "Pärnu",
+    "address": "Kuninga 34, Pärnu",
+    "image": null,
+    "logo": "/places/kana4u.png",
+    "menu": null,
+    "meats": [
+      "chicken"
+    ],
+    "halalStatus": "venue_claim",
+    "delivery": false,
+    "notes": "Turkish chicken place that puts \"halal\" (حلال) in its name.",
+    "lat": 58.38423,
+    "lng": 24.50269,
+    "googlePlaceId": "ChIJYVH9PAD97EYRGapUtE5g_VA",
+    "sources": [
+      "https://www.google.com/maps/place/?q=place_id:ChIJYVH9PAD97EYRGapUtE5g_VA"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "habib-food",
+    "name": "Habib Food",
+    "type": "restaurant",
+    "city": "Pärnu",
+    "address": "Riia mnt 28, Pärnu",
+    "image": null,
+    "logo": "/places/habib food.png",
+    "menu": null,
+    "meats": [],
+    "halalStatus": "customer_reports",
+    "delivery": false,
+    "notes": "Hummus, shawarma and wraps. Customers mention halal.",
+    "lat": 58.38408,
+    "lng": 24.51602,
+    "googlePlaceId": "ChIJZe0NdRD97EYRKY2W1IvF6LE",
+    "sources": [
+      "https://www.google.com/maps/place/?q=place_id:ChIJZe0NdRD97EYRKY2W1IvF6LE"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "kfc-ulemiste",
+    "name": "KFC (Ülemiste)",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Suur-Sõjamäe 4, Tallinn (Ülemiste Centre)",
+    "image": null,
+    "logo": "/places/kfc ulemiste.png",
+    "menu": "kfc",
+    "meats": [
+      "chicken"
+    ],
+    "halalStatus": "customer_reports",
+    "delivery": false,
+    "notes": "Halal claim comes from a customer review of KFC Ülemiste, which says the branch shows a halal certificate covering burgers, broast, nuggets and twisters. KFC Estonia does not say this on its website, and some burgers contain bacon, so the kitchen handles pork. Ask staff to show the certificate.",
+    "lat": 59.4225,
+    "lng": 24.79385,
+    "googlePlaceId": "ChIJ6U8vlt3rkkYRh2jMfxURzVo",
+    "sources": [
+      "https://wanderlog.com/place/details/1407229/kfc-%C3%BClemiste-centre",
+      "https://www.google.com/maps/place/?q=place_id:ChIJ6U8vlt3rkkYRh2jMfxURzVo"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "kfc-artius",
+    "name": "KFC (Artius)",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Narva mnt 5, Tallinn",
+    "image": null,
+    "logo": "/places/kfc artius.png",
+    "menu": "kfc",
+    "meats": [
+      "chicken"
+    ],
+    "halalStatus": "customer_reports",
+    "delivery": false,
+    "notes": "Same chain as KFC Ülemiste. The halal claim comes from a customer review of KFC Ülemiste, which says the branch shows a halal certificate covering burgers, broast, nuggets and twisters. KFC Estonia does not say this on its website, and some burgers contain bacon, so the kitchen handles pork. Ask staff to show the certificate.",
+    "lat": 59.43761,
+    "lng": 24.75792,
+    "googlePlaceId": "ChIJ-feLEgCTkkYRe295lMs80J4",
+    "sources": [
+      "https://wanderlog.com/place/details/1407229/kfc-%C3%BClemiste-centre",
+      "https://www.google.com/maps/place/?q=place_id:ChIJ-feLEgCTkkYRe295lMs80J4"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "kfc-kristiine",
+    "name": "KFC (Kristiine)",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Endla 45, Tallinn",
+    "image": null,
+    "logo": "/places/kfc kristine.png",
+    "menu": "kfc",
+    "meats": [
+      "chicken"
+    ],
+    "halalStatus": "customer_reports",
+    "delivery": false,
+    "notes": "Same chain as KFC Ülemiste. The halal claim comes from a customer review of KFC Ülemiste, which says the branch shows a halal certificate covering burgers, broast, nuggets and twisters. KFC Estonia does not say this on its website, and some burgers contain bacon, so the kitchen handles pork. Ask staff to show the certificate.",
+    "lat": 59.42733,
+    "lng": 24.7231,
+    "googlePlaceId": "ChIJr4ICHpuVkkYR1BntpUP-JI4",
+    "sources": [
+      "https://wanderlog.com/place/details/1407229/kfc-%C3%BClemiste-centre",
+      "https://www.google.com/maps/place/?q=place_id:ChIJr4ICHpuVkkYR1BntpUP-JI4"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "kfc-lasnamae",
+    "name": "KFC (Lasnamäe)",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Mustakivi tee 15A, Tallinn",
+    "image": null,
+    "logo": "/places/kfc lasname.png",
+    "menu": "kfc",
+    "meats": [
+      "chicken"
+    ],
+    "halalStatus": "customer_reports",
+    "delivery": false,
+    "notes": "Same chain as KFC Ülemiste. The halal claim comes from a customer review of KFC Ülemiste, which says the branch shows a halal certificate covering burgers, broast, nuggets and twisters. KFC Estonia does not say this on its website, and some burgers contain bacon, so the kitchen handles pork. Ask staff to show the certificate.",
+    "lat": 59.44279,
+    "lng": 24.86523,
+    "googlePlaceId": "ChIJyYv6hYftkkYRhqxoIytC0eQ",
+    "sources": [
+      "https://wanderlog.com/place/details/1407229/kfc-%C3%BClemiste-centre",
+      "https://www.google.com/maps/place/?q=place_id:ChIJyYv6hYftkkYRhqxoIytC0eQ"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "kfc-tondi",
+    "name": "KFC (Tondi)",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "A. H. Tammsaare tee 62, Tallinn",
+    "image": null,
+    "logo": "/places/kfc tondi.png",
+    "menu": "kfc",
+    "meats": [
+      "chicken"
+    ],
+    "halalStatus": "customer_reports",
+    "delivery": false,
+    "notes": "Same chain as KFC Ülemiste. The halal claim comes from a customer review of KFC Ülemiste, which says the branch shows a halal certificate covering burgers, broast, nuggets and twisters. KFC Estonia does not say this on its website, and some burgers contain bacon, so the kitchen handles pork. Ask staff to show the certificate.",
+    "lat": 59.40287,
+    "lng": 24.71362,
+    "googlePlaceId": "ChIJV9fAIrCVkkYRIPfQlAqpS6Y",
+    "sources": [
+      "https://wanderlog.com/place/details/1407229/kfc-%C3%BClemiste-centre",
+      "https://www.google.com/maps/place/?q=place_id:ChIJV9fAIrCVkkYRIPfQlAqpS6Y"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "kfc-tartu-lounakeskus",
+    "name": "KFC (Lõunakeskus)",
+    "type": "restaurant",
+    "city": "Tartu",
+    "address": "Lääneringtee 35, Tartu",
+    "image": null,
+    "logo": "/places/kfc lounakeskus.png",
+    "menu": "kfc",
+    "meats": [
+      "chicken"
+    ],
+    "halalStatus": "customer_reports",
+    "delivery": false,
+    "notes": "Same chain as KFC Ülemiste. The halal claim comes from a customer review of KFC Ülemiste, which says the branch shows a halal certificate covering burgers, broast, nuggets and twisters. KFC Estonia does not say this on its website, and some burgers contain bacon, so the kitchen handles pork. Ask staff to show the certificate.",
+    "lat": 58.35998,
+    "lng": 26.67725,
+    "googlePlaceId": "ChIJObQBHOI360YRiZv3DhRDmSM",
+    "sources": [
+      "https://wanderlog.com/place/details/1407229/kfc-%C3%BClemiste-centre",
+      "https://www.google.com/maps/place/?q=place_id:ChIJObQBHOI360YRiZv3DhRDmSM"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "kfc-tartu-tasku",
+    "name": "KFC (Tasku)",
+    "type": "restaurant",
+    "city": "Tartu",
+    "address": "Turu 2, Tartu",
+    "image": null,
+    "logo": "/places/kfc tasku.png",
+    "menu": "kfc",
+    "meats": [
+      "chicken"
+    ],
+    "halalStatus": "customer_reports",
+    "delivery": false,
+    "notes": "Same chain as KFC Ülemiste. The halal claim comes from a customer review of KFC Ülemiste, which says the branch shows a halal certificate covering burgers, broast, nuggets and twisters. KFC Estonia does not say this on its website, and some burgers contain bacon, so the kitchen handles pork. Ask staff to show the certificate.",
+    "lat": 58.37777,
+    "lng": 26.73025,
+    "googlePlaceId": "ChIJ0WyNI4s360YR6T0W3FU8GX4",
+    "sources": [
+      "https://wanderlog.com/place/details/1407229/kfc-%C3%BClemiste-centre",
+      "https://www.google.com/maps/place/?q=place_id:ChIJ0WyNI4s360YR6T0W3FU8GX4"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "kfc-narva",
+    "name": "KFC (Narva)",
+    "type": "restaurant",
+    "city": "Narva",
+    "address": "Fama põik 10, Narva",
+    "image": null,
+    "logo": "/places/kfc narva.jpg",
+    "menu": "kfc",
+    "meats": [
+      "chicken"
+    ],
+    "halalStatus": "customer_reports",
+    "delivery": false,
+    "notes": "Same chain as KFC Ülemiste. The halal claim comes from a customer review of KFC Ülemiste, which says the branch shows a halal certificate covering burgers, broast, nuggets and twisters. KFC Estonia does not say this on its website, and some burgers contain bacon, so the kitchen handles pork. Ask staff to show the certificate.",
+    "lat": 59.37954,
+    "lng": 28.18776,
+    "googlePlaceId": "ChIJUSBycchJlEYRT22UTdaew5c",
+    "sources": [
+      "https://wanderlog.com/place/details/1407229/kfc-%C3%BClemiste-centre",
+      "https://www.google.com/maps/place/?q=place_id:ChIJUSBycchJlEYRT22UTdaew5c"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "samsa-balti-jaam",
+    "name": "Samsa Family Bakers (Balti Jaam)",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Kopli 1, Tallinn (Balti Jaama Turg)",
+    "image": null,
+    "logo": "/places/samsa bakers balti jaam.png",
+    "menu": "samsa",
+    "meats": [
+      "lamb",
+      "beef"
+    ],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Uzbek bakery and kitchen: plov, manti, samsa and cheburek with lamb and beef. A 2023 interview with the Kebaboom manager names Samsa as one of the few halal meat places in Tallinn. Confirm with staff.",
+    "lat": 59.44109,
+    "lng": 24.73632,
+    "googlePlaceId": "ChIJT7KMjFyUkkYRDhs0LXeOdAY",
+    "sources": [
+      "https://balticguide.ee/en/doner-kebab-heaven",
+      "https://www.google.com/maps/place/?q=place_id:ChIJT7KMjFyUkkYRDhs0LXeOdAY"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "samsa-viru",
+    "name": "Samsa Family Bakers (Viru Keskus)",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Viru väljak 4, Tallinn",
+    "image": null,
+    "logo": "/places/samsa baker viru keskus.png",
+    "menu": "samsa",
+    "meats": [
+      "lamb",
+      "beef"
+    ],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Uzbek bakery and kitchen: plov, manti, samsa and cheburek with lamb and beef. A 2023 interview with the Kebaboom manager names Samsa as one of the few halal meat places in Tallinn. Confirm with staff.",
+    "lat": 59.43599,
+    "lng": 24.75522,
+    "googlePlaceId": "ChIJIUOR6YaTkkYR7YcIq8vg0Qs",
+    "sources": [
+      "https://balticguide.ee/en/doner-kebab-heaven",
+      "https://www.google.com/maps/place/?q=place_id:ChIJIUOR6YaTkkYR7YcIq8vg0Qs"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "samsa-parnamae",
+    "name": "Samsa Family Bakers (Pärnamäe)",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Pärnamäe tee 4a, Tallinn",
+    "image": null,
+    "logo": "/places/samsa baker parname.png",
+    "menu": "samsa",
+    "meats": [
+      "lamb",
+      "beef"
+    ],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Uzbek bakery and kitchen: plov, manti, samsa and cheburek with lamb and beef. A 2023 interview with the Kebaboom manager names Samsa as one of the few halal meat places in Tallinn. Confirm with staff.",
+    "lat": 59.46179,
+    "lng": 24.90535,
+    "googlePlaceId": "ChIJwSldJOTtkkYRxaXEvMHMIQk",
+    "sources": [
+      "https://balticguide.ee/en/doner-kebab-heaven",
+      "https://www.google.com/maps/place/?q=place_id:ChIJwSldJOTtkkYRxaXEvMHMIQk"
+    ],
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "samsa-stroomi",
+    "name": "Samsa Family Bakers (Stroomi)",
+    "type": "restaurant",
+    "city": "Tallinn",
+    "address": "Tuulemaa 20, Tallinn (Stroomi Keskus)",
+    "image": null,
+    "logo": "/places/samsa baker stroomi.jpeg",
+    "menu": "samsa",
+    "meats": [
+      "lamb",
+      "beef"
+    ],
+    "halalStatus": "third_party_listing",
+    "delivery": false,
+    "notes": "Uzbek bakery and kitchen: plov, manti, samsa and cheburek with lamb and beef. A 2023 interview with the Kebaboom manager names Samsa as one of the few halal meat places in Tallinn. Confirm with staff.",
+    "lat": 59.44727,
+    "lng": 24.69265,
+    "googlePlaceId": "ChIJNyAfVi2TkkYRD8yqGn1OsNo",
+    "sources": [
+      "https://balticguide.ee/en/doner-kebab-heaven",
+      "https://www.google.com/maps/place/?q=place_id:ChIJNyAfVi2TkkYRD8yqGn1OsNo"
+    ],
+    "lastChecked": "2026-11-07"
+  }
+]
