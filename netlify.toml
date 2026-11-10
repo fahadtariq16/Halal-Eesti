@@ -1,0 +1,17 @@
+[build]
+  base = "client"
+  command = "npm run build"
+  publish = "dist"
+
+# Send API calls to your backend (fill in after Fix 2)
+[[redirects]]
+  from = "/api/*"
+  to = "https://YOUR-BACKEND-URL/api/:splat"
+  status = 200
+  force = true
+
+# Any other path loads the app
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
