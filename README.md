@@ -140,6 +140,33 @@ Menus live in `server/data/menus.json`, keyed by a menu id. A place uses one wit
 - Prices copied from delivery apps are often higher than in the restaurant and change often: re-check
   `lastChecked` regularly, or ask owners for their in-store price list.
 
+## Reviews
+
+Visitors can rate any place (1–5 stars), write a short review and say whether the place confirmed the meat is halal. Ratings show on cards and in a **Reviews** tab in each place's popup.
+
+API:
+- `GET  /api/places/:id/reviews?page=1&limit=5` — newest first, with average and halal answer counts
+- `POST /api/places/:id/reviews` — body `{ name, rating, text, halal: "yes"|"no"|"unsure" }`
+- `DELETE /api/reviews/:reviewId` — admin only, needs `Authorization: Bearer <ADMIN_TOKEN>`
+
+Rules the server enforces: name 2–40 characters, text 10–1000 characters, no links, max 5 reviews per hour from one IP (the IP is not stored). A hidden "website" field catches simple bots.
+
+### Where reviews are saved
+- **Locally:** `server/data/reviews.json` (git-ignored).
+- **Online (Render):** the free plan wipes files on every restart, so you **must** use a database. Create a free MongoDB Atlas cluster, then on Render → Environment add:
+  - `MONGODB_URI` = your Atlas connection string
+  - `ADMIN_TOKEN` = a long random secret (e.g. run `node -e "console.log(require('crypto').randomBytes(24).toString('hex'))"`)
+  - In Atlas → Network Access, allow `0.0.0.0/0` (Render has no fixed IP on the free plan).
+
+### Deleting a bad review
+Find its `id` in the reviews response, then:
+```
+curl -X DELETE https://halal-eesti.onrender.com/api/reviews/REVIEW_ID -H "Authorization: Bearer YOUR_ADMIN_TOKEN"
+```
+
+### Before you sell this
+Reviews go live immediately. You are responsible for removing illegal or defamatory content once you are told about it, and reviews contain personal data (names) under GDPR. Add a short privacy notice and a "report a review" contact email before launch.
+
 ## Known data gaps (Nov 2026)
 
 - **No goat seller found.** Ask butchers directly — many will order goat on request.
