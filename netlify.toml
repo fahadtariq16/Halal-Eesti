@@ -6,7 +6,7 @@
 # Send API calls to your backend (fill in after Fix 2)
 [[redirects]]
   from = "/api/*"
-  to = "https://halal-eesti.onrender.com/api/places"
+  to = "https://halal-eesti.onrender.com/api/health"
   status = 200
   force = true
 
