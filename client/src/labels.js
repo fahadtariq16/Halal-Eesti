@@ -2,7 +2,7 @@ export const STATUS = {
   venue_claim: {
     label: 'Venue says halal',
     tone: 'ok',
-    help: 'The business itself advertises halal meat — on its website, menu, delivery app or in its name.'
+    help: 'The business itself advertises halal meat on its website, menu, delivery app or in its name.'
   },
   third_party_listing: {
     label: 'Listed by halal guides',

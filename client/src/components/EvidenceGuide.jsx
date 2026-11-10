@@ -9,7 +9,7 @@ export default function EvidenceGuide() {
         <h2 id="guide-h">How we label halal</h2>
         <p>
           Estonia has no national halal certification body, so no one here can stamp a place as certified. Instead,
-          every listing shows where its halal claim comes from — strongest first.
+          every listing shows where its halal claim comes from strongest first.
         </p>
       </div>
       <ol className="guide-scale">
